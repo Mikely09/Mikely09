@@ -1,16 +1,9 @@
 <h1 align="center">Olá! Eu sou a <strong>Mikely</strong> 👋</h1>
 
-<!-- GIF centralizado e separado -->
+<!-- GIF centralizado -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300" alt="GIF animado">
 </div>
-
-<br>
-
-<p align="center">
-  🌐 Estudante de <strong>Programação para Internet</strong> <br>
-  💻 Criando projetos com foco em desenvolvimento web
-</p>
 
 ---
 
@@ -46,10 +39,8 @@
 ---
 
 ### 🍄 Onde me encontrar
-- ✉️ Email: *mikoliver09@gmail.com*
-- 💼 LinkedIn: *https://www.linkedin.com/in/mikely-ferreira-a33102380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
+- ✉️ Email: *mikoliver09@gmail*
 
----
  
 
 
