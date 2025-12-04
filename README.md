@@ -40,6 +40,9 @@
 
 ### 🍄 Onde me encontrar
 - ✉️ Email: *mikoliver09@gmail*
+- - 💼 LinkedIn: *https://www.linkedin.com/in/mikely-ferreira-a33102380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
+
+---
 
  
 
