@@ -2,7 +2,7 @@
 
 <!-- GIF centralizado -->
 <div align="center">
-  <img src="https://private-user-images.githuhttps://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ4NzIyMjEsIm5iZiI6MTc2NDg3MTkyMSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA0VDE4MTIwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNjOTYzN2U0OTcyMjViZWQyMjI3YTI4NjZkOGE5ZTNlYzdlMTdkMTQyMWY0MTI4Njk2NjE0NTY0ZjJhM2VjMWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.i5oTJYvf9T4t_3Tb34sF9HxA2xN_Gxu8nM1uekjpf1s">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"
 </div>
 
 ---
