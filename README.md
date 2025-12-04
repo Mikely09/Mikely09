@@ -1,5 +1,9 @@
 <h1 align="center">Olá! Eu sou a <strong>Mikely</strong> 👋</h1>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300" alt="GIF animado">
+</div>
+
 <p align="center">
   🌐 Estudante de <strong>Programação para Internet</strong> <br>
   💻 Criando projetos com foco em desenvolvimento web
@@ -22,6 +26,8 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="50" width="50" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Node.js" height="50" width="50" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
 ---
@@ -42,4 +48,5 @@
 
 ---
 
-✨ *Obrigada por visitar meu perfil! Explore meus repositórios e veja o que estou criando.*
+ 
+
