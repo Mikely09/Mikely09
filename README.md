@@ -42,7 +42,20 @@
 
 <div align="left">
 
-<a href="https://github.com/mikely" target="_blank">
+<a href="### 🍄 Onde me encontrar
+
+<div align="left">
+
+<a href="https://github.com/Mikely09" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mikely-ferreira-a33102380" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
