@@ -31,18 +31,14 @@
 ### 📊 Estatísticas do GitHub
 <div align="center">
   <img height="160em"
-       src="https://github-readme-stats.vercel.app/api?username=mikely&show_icons=true&theme=tokyonight&count_private=true"/>
+       src="https://github-readme-stats.vercel.app/api?username=Mikely09&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="160em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikely&layout=compact&theme=tokyonight"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikely09&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
 
 ### 🍄 Onde me encontrar
-
-<div align="left">
-
-<a href="### 🍄 Onde me encontrar
 
 <div align="left">
 
@@ -55,17 +51,9 @@
 </a>
 
 </div>
-" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/mikely-ferreira-a33102380" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
 
 ---
+
 
 
  
